@@ -36,7 +36,7 @@ section#login {
 }
 
 section#login > div#imagem {
-    background: #5f2c82 url(../imagens/pexels-david-guerrero-15452130.jpg) no-repeat;
+    background: #5f2c82 url(../imagens/jason-leung-UMncYEfO9-U-unsplash\ \(1\).jpg) no-repeat;
     background-size: cover;
     background-position: center center;
     height: 200px;
@@ -46,4 +46,13 @@ section#login > div#imagem {
 section#login > div#formulario {
     padding: 10px;
     display: block;
+}
+
+div#formulario > h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+div#formulario > p {
+    text-align: center;
+    font-size: .8em;
 }
